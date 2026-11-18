@@ -1,0 +1,1 @@
+Abra index.html em um navegador com internet. As narrações do HeyGen são carregadas online. O MP4 sozinho não tem a narração Afonso. Para publicar, envie a pasta inteira a um servidor estático.
